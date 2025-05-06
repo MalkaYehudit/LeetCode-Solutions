@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
