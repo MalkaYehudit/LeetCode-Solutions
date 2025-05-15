@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
@@ -71,9 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0135-candy) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
