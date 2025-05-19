@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
