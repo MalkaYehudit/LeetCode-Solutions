@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0135-candy) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
