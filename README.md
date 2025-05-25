@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0274-h-index) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Enumeration
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
