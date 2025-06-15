@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3321-type-of-triangle](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
