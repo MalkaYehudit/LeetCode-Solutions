@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
