@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -137,4 +138,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
