@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1813-maximum-erasure-value](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2048-build-array-from-permutation](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1813-maximum-erasure-value](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
