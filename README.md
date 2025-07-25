@@ -147,13 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/MalkaYehudit/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
